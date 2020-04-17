@@ -1,7 +1,7 @@
 # tooth-brushing-clock
 Code for Arduino Tooth Brushing clock with SSD1306 0,96'' OLED display
 
-This project runs on ATmega 168 controller, so can run with cheap Aruino Nano boards
+This project runs on both ATmega328 and ATmega168 boards thanks to using only text mode for it's basic graphic display. This means that it can run with cheap 2$ Aruino Nano boards
 
 Wiring: https://www.instructables.com/id/Monochrome-096-i2c-OLED-display-with-arduino-SSD13/ 
 Or: https://www.youtube.com/watch?v=PrIAnDZ9dp8
